@@ -35,3 +35,15 @@ git remote add origin git@github.com:fay22ekanem/TCN-Website.git
 git branch -m main
 
 git push -u origin main
+
+# 3 ways to check branch in git:
+
+Type Command  
+Local branches:
+git branch
+
+Remote branches:
+git branch -r
+
+All branches:
+git branch -a
