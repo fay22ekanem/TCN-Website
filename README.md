@@ -73,6 +73,8 @@ Example:
 
 git branch experiment
 
+git checkout experiment
+
 # To restrict push conflit:
 
 @fay22ekanem kindly go to
