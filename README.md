@@ -32,6 +32,10 @@ git commit -m "add what you did"
 
 git remote add origin git@github.com:fay22ekanem/TCN-Website.git
 
+or
+
+git remote add origin https://github.com/fay22ekanem/TCN-Website.git
+
 git branch -m main
 
 git push -u origin main
@@ -57,13 +61,17 @@ git branch -a
 
     git checkout -b <new-branch-name>
 
-Example: git checkout -b feature/user-authentication
+Example:
+
+git checkout -b feature/user-authentication
 
 2. Create the Branch Without Switching to It
 
     git branch <new-branch-name>
 
-Example: git branch experiment
+Example:
+
+git branch experiment
 
 # To restrict push conflit:
 
