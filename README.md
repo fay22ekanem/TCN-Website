@@ -87,6 +87,12 @@ This will be seen by the code maintainer and accept your
 
 request after confirming there is no error.
 
+# Code maintainer:
+
+Run this on main branch:
+
+git pull origin main
+
 # In case main branch is ahead of your branch:
 
 run:
@@ -104,4 +110,4 @@ git merge origin
 settings --> Branches --> Add neccessary restrictions
 under Branch protection rules
 
-kindly delete line 101 to 108 when you are done
+kindly delete line 106 to 113 when you are done
