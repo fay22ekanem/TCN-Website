@@ -98,4 +98,4 @@ run: git pull from your branch
 settings --> Branches --> Add neccessary restrictions
 under Branch protection rules
 
-kindly delete line 69 to 76 when you are done
+kindly delete line 94 to 101 when you are done
