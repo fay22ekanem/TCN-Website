@@ -8,13 +8,13 @@ kindly create a branch for your work and push to that
 branch. The mainter will merge each pull request after
 confirming the request will not 'scatter' other code.
 
-# For central pull
+# For central pull:
 
 You can change directory to the main/master branch to
 git pull an updated version of the website from time to
 time.
 
-# To start run these code:
+# To start, run these code:
 
 Using HTTP:
 git clone https://github.com/fay22ekanem/TCN-Website.git
@@ -40,27 +40,36 @@ git push -u origin main
 
 Type Command  
 Local branches:
+
 git branch
 
 Remote branches:
+
 git branch -r
 
 All branches:
+
 git branch -a
 
 # Steps to create a branch:
 
 1. Create and Switch to the New Branch (Most Common)
-   git checkout -b <new-branch-name>
+
+    git checkout -b <new-branch-name>
 
 Example: git checkout -b feature/user-authentication
 
 2. Create the Branch Without Switching to It
-   git branch <new-branch-name>
+
+    git branch <new-branch-name>
 
 Example: git branch experiment
 
-# To restrict push conflit @fay22ekanem kindly go to
+# To restrict push conflit:
+
+@fay22ekanem kindly go to
 
 settings --> Branches --> Add neccessary restrictions
 under Branch protection rules
+
+kindly delete line 69 to 76 when you are done
