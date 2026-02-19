@@ -47,3 +47,20 @@ git branch -r
 
 All branches:
 git branch -a
+
+# Steps to create a branch:
+
+1. Create and Switch to the New Branch (Most Common)
+   git checkout -b <new-branch-name>
+
+Example: git checkout -b feature/user-authentication
+
+2. Create the Branch Without Switching to It
+   git branch <new-branch-name>
+
+Example: git branch experiment
+
+# To restrict push conflit @fay22ekanem kindly go to
+
+settings --> Branches --> Add neccessary restrictions
+under Branch protection rules
