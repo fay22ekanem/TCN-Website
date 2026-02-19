@@ -81,7 +81,8 @@ git push --set-upstream origin [your branch name]
 
 # In case your branch is ahead of the main branch:
 
-Click the contribute button on github website and enable pull request.
+Click the contribute button on your branch github page
+and enable pull request.
 
 This will be seen by the code maintainer and accept your
 
