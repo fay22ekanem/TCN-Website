@@ -79,6 +79,18 @@ git checkout experiment
 
 git push --set-upstream origin [your branch name]
 
+# In case your branch is ahead of the main branch:
+
+Click the contribute button on github website and enable pull request.
+
+This will be seen by the code maintainer and accept your
+
+request after confirming there is no error.
+
+# In case main branch is ahead of your branch:
+
+run: git pull from your branch
+
 # To restrict push conflit:
 
 @fay22ekanem kindly go to
