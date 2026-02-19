@@ -75,6 +75,10 @@ git branch experiment
 
 git checkout experiment
 
+# To push from your branch:
+
+git push --set-upstream origin [your branch name]
+
 # To restrict push conflit:
 
 @fay22ekanem kindly go to
