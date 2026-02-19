@@ -11,3 +11,17 @@ confirming the request will not 'scatter' other code.
 
 git pull an updated version of the website from time to
 time.
+
+# To start run these code:
+
+git init
+
+git add .
+
+git commit -m "add what you did"
+
+git remote add origin git@github.com:fay22ekanem/TCN-Website.git
+
+git branch -m main
+
+git push -u origin main
