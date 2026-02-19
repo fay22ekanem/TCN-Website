@@ -89,7 +89,13 @@ request after confirming there is no error.
 
 # In case main branch is ahead of your branch:
 
-run: git pull from your branch
+run:
+
+git checkout [your branch]
+
+git fetch origin
+
+git merge origin
 
 # To restrict push conflit:
 
