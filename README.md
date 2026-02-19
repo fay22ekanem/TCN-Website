@@ -104,4 +104,4 @@ git merge origin
 settings --> Branches --> Add neccessary restrictions
 under Branch protection rules
 
-kindly delete line 94 to 101 when you are done
+kindly delete line 101 to 108 when you are done
